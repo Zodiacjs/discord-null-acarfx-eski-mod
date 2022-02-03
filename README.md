@@ -1,7 +1,7 @@
 # Acarın en eski mod altyapısıdır
 ###### Dün gece diskin derinliklerinde buldum kullanılabilir gayet güzel ve kayıt sistemide içerisinde mevcut
 
-###### Kaldırmamı istersen acar Script#1002 Yada discord.gg/1002 den ulaşabilirsin.
+###### Kaldırmamı istersen Script#1002 Yada discord.gg/1002 den ulaşabilirsin.
 
 
 <h1 align="center"> Discord Hesaplarım <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h1>
