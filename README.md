@@ -7,7 +7,6 @@
 ![Ekran Görüntüsü - 2022-02-03 10-44-32](https://user-images.githubusercontent.com/60463845/152301401-353c5cfd-df58-487a-875b-f0285cb0ae8e.png)
 
 
-<h1 align="center"> Discord Hesaplarım <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h1>
+<h1 align="center"> Discord <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h1>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/311625016276025364?hideDiscrim=true)](https://discord.com/users/311625016276025364)
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/770307586477522964?hideDiscrim=true)](https://discord.com/users/770307586477522964)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/769979665224958020?hideDiscrim=true)](https://discord.com/users/769979665224958020)
